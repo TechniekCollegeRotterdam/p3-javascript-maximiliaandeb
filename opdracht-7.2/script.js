@@ -8,6 +8,6 @@ function add_product() {
 let product = input.value;
 shop.push(product);
 output.innerText = shop;
-input = ""; 
+input.value = ""; 
 }
 

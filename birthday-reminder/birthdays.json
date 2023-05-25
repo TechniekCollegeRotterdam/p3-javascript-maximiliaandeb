@@ -1,0 +1,32 @@
+[
+    {
+        "name": " Mister van Dijke",
+        "age": "69 years",
+        "img": "./birthday-images/bram van dijke.jpg"
+    },
+    {
+        "name": "lana",
+        "age": "3 years",
+        "img": "./birthday-images/daggoe.jpg"
+    },
+    {
+       "name": "Meneer van Velzen",
+        "age": "2 years",
+        "img": "./birthday-images/roel van velzen"
+    },
+    {
+        "name": "HAHWWW DIKKE BMW",
+         "age": "78 years",
+         "img": "./birthday-images/dikke bmw mevrouw.jpg"
+     },
+     {
+        "name": "Bart Hendrikus Slagboom aka slagboom vd zeeland",
+         "age": "5 years",
+         "img": "./birthday-images/slagboom.jpg "
+     },
+     {
+        "name": "Jeroen van der Boom",
+         "age": "42 years",
+         "img": "./birthday-images/jeroen vd boom.jpg"
+     }
+]

@@ -1,0 +1,36 @@
+{
+  "visitors": [
+    {
+      "id": 1,
+      "firstname": "Slagboom",
+      "lastname": "Bart",
+      "city": "ouddorp",
+      "email": "Bartslagboom@icloud.com",
+      "phonenumber": "6969696969"
+    },
+    {
+      "id": 3,
+      "firstname": "Dijke",
+      "lastname": "Lorax",
+      "city": "Heinenoord",
+      "email": "dijke@gmail.com",
+      "phonenumber": "0678912345"
+    },
+    {
+      "id": 4,
+      "firstname": "Max",
+      "lastname": "bruine",
+      "city": "Nederland",
+      "email": "bruine@gmail.com",
+      "phonenumber": "0624912876"
+    },
+    {
+      "id": 5,
+      "firstname": "Jason",
+      "lastname": "Jason",
+      "city": "Hoogvliet",
+      "email": "Jason@docent.com",
+      "phonenumber": "0612345678"
+    }
+  ]
+}

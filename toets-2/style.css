@@ -1,0 +1,22 @@
+body {
+    background-image: url(p4toetsbackgroundimage.jpg);
+    color: black;
+}
+
+#visitors-container {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+    width: 20%;
+    align-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: aqua;
+    margin: 0.5rem;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    border-color: aqua;
+}
